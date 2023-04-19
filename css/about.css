@@ -53,3 +53,9 @@ div {
 ul{
     color: white;
 }
+
+.center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
